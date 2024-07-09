@@ -11,17 +11,17 @@ The local attention-guided message passing mechanism (LAMP) adopted in graph att
 
 ## The pipiline
 <p align = 'center'>
-  <img width = 80% src= "pic/fig7.png">
+  <img width = 100% src= "pic/fig7.png">
 </p>
 
 A toy example:
 <p align = 'center'>
-  <img width = 80% src= "pic/fig1.png">
+  <img width = 90% src= "pic/fig1.jpg">
 </p>
 
 The causal graph:
 <p align = 'center'>
-  <img width = 80% src= "pic/fig2.png">
+  <img width = 90% src= "pic/fig2.png">
 </p>
 
 ## How to run
